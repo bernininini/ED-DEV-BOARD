@@ -8,6 +8,8 @@
 - Nailing it down to keep everything minimal and decided to uses QWIIC and ESP32 S3 WROOM 1
 - - > ESP32 S3 WROOM1; WIFI, Bluetooth, and supports a lot different communication protocols like I2C and UART
 - - > QWIIC; Standard 4 pins communication, plug and play.
+ <img width="1426" height="1246" alt="image" src="https://github.com/user-attachments/assets/688177dc-6bf8-4cc3-b27a-a7245c8bc9d6" />
+
 - Research on how to use QWIIC by reading data sheets
 
 - Schematics; 
