@@ -7,7 +7,7 @@
 - Researching and defining the goal of 'minimize the wiring' and what microcontroller chip
 - Nailing it down to keep everything minimal and decided to uses QWIIC and ESP32 S3 WROOM 1
 - - > ESP32 S3 WROOM1; WIFI, Bluetooth, and supports a lot different communication protocols like I2C and UART
-    > QWIIC; Standard 4 pins communication, plug and play.
+- - > QWIIC; Standard 4 pins communication, plug and play.
 - Research on how to use QWIIC by reading data sheets
 
 - Schematics; 
