@@ -1,5 +1,7 @@
 # ED-DEV-BOARD
-The Ed Dev Board is a custom dev board featuring a Qwiic port and powered by the ESP32-S3 WROOM 1. I decided to create this custom PCB to provide an easy access and accessible dev board for prototyping and electronics projects that minimize the wiring.
+The Ed Dev Board is a custom dev board featuring a Qwiic port and powered by the ESP32-S3 WROOM 1. A custom PCB to provide an easy access and accessible dev board for prototyping and electronics projects that minimize the wiring.
+
+*Qwiic is a type of connecting system that uses the I2C protocol, that only uses 4 pins (VCC, GND, SDA, SCL)
 
 Reference: 
 https://www.sparkfun.com/qwiic 
