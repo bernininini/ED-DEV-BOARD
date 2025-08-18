@@ -4,6 +4,7 @@ The Ed Dev Board is a custom dev board featuring a Qwiic port and powered by the
 *Qwiic is a type of connecting system that uses the I2C protocol, that only uses 4 pins (VCC, GND, SDA, SCL)
 <img width="277" height="384" alt="image" src="https://github.com/user-attachments/assets/25e2e4a8-da91-4f24-9f47-abae235736e1" />
 <img width="613" height="460" alt="image" src="https://github.com/user-attachments/assets/2054f1b9-c00a-4438-bd0d-b1dde3260c87" />
+
 Reference: 
 https://www.sparkfun.com/qwiic 
 
